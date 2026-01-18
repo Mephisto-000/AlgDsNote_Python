@@ -1,0 +1,112 @@
+# --------------------------
+# Visual Studio / .NET
+# --------------------------
+
+## Build output ##
+[Bb]in/
+[Oo]bj/
+artifacts/
+
+## Visual Studio cache / user settings ##
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+## Rider / JetBrains
+.idea/
+
+## Visual Studio Code
+.vscode/
+!.vscode/settings.json
+!.vscode/launch.json
+!.vscode/tasks.json
+!.vscode/extensions.json
+
+## ASP.NET Core / .NET ##
+**/Properties/launchSettings.json
+
+## NuGet ##
+*.nupkg
+**/packages/
+
+## Dotnet temp files ##
+project.lock.json
+project.fragment.lock.json
+
+## Logs ##
+logs/
+*.log
+
+## OS generated ##
+*.DS_Store
+Thumbs.db
+
+# --------------------------
+# Python
+# --------------------------
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# Virtual Environments
+.venv/
+venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+
+# Python tooling caches
+.pytest_cache/
+.mypy_cache/
+.dmypy.json
+dmypy.json*
+
+# Test / Coverage
+htmlcov/
+.coverage
+.coverage.*
+nosetests.xml
+coverage.xml
+*.cover
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Installer / Logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Python environment file
+.python-version
+
+# --------------------------
+# Misc files / Dev Tools
+# --------------------------
+
+# Environment vars
+.env
+.env.*
+
+# Temporary files
+*.tmp
+*.temp
+*.bak
+
+# Global OS ignore patterns (optional)
+.DS_Store
+desktop.ini
+Thumbs.db
