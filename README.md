@@ -5,6 +5,8 @@
 
 ### 1. Sort
 
+[Python 實作](https://github.com/Mephisto-000/AlgDsNote_Python/tree/main/Sort)
+
 - [x] Insertion sort
 - [ ] Shell sort
 - [ ] Selection sort
@@ -12,4 +14,5 @@
 - [ ] Merge sort
 - [ ] Heap sort
 - [ ] Quick sort
+
 
