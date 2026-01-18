@@ -5,8 +5,11 @@
 
 ### 1. Sort
 
-- [ ] Insertion sort
-- [ ]
-
-
+- [x] Insertion sort
+- [ ] Shell sort
+- [ ] Selection sort
+- [ ] Bubble sort
+- [ ] Merge sort
+- [ ] Heap sort
+- [ ] Quick sort
 
